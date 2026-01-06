@@ -22,7 +22,7 @@ I apply **PCA for dimensionality reduction** and **K-means clustering** to ident
 - Small outlier clusters represent intentional experimentation rather than noise
 
 ## Files
-- `TaylorSwift_CreativeEvolution.ipynb` — full analysis and visualizations
+- `TaylorSwift_CreativeEvolution.ipynb` - full analysis and visualizations
 
 ## Tools
 Python, pandas, scikit-learn, matplotlib, seaborn

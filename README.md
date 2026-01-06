@@ -21,6 +21,11 @@ I apply **PCA for dimensionality reduction** and **K-means clustering** to ident
 - Recent years show increased stylistic diversity and experimentation
 - Small outlier clusters represent intentional experimentation rather than noise
 
+## Applications
+- Highlights opportunities for playlist curation (era- and mood-based sets)
+- Informs catalog marketing by surfacing high-potential tracks within each sonic cluster
+- Supports audience targeting by linking sonic profiles to different listener segments
+
 ## Files
 - `TaylorSwift_CreativeEvolution.ipynb` - full analysis and visualizations
 

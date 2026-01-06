@@ -27,7 +27,7 @@ I apply **PCA for dimensionality reduction** and **K-means clustering** to ident
 - Supports audience targeting by linking sonic profiles to different listener segments
 
 ## Files
-- `TaylorSwift_CreativeEvolution.ipynb` - full analysis and visualizations
+- [TaylorSwift_CreativeEvolution.ipynb](TaylorSwift_CreativeEvolution.ipynb) – full analysis and visualizations
 
 ## Tools
 Python, pandas, scikit-learn, matplotlib, seaborn

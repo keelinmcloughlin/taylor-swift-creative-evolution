@@ -27,5 +27,8 @@ I apply **PCA for dimensionality reduction** and **K-means clustering** to ident
 ## Tools
 Python, pandas, scikit-learn, matplotlib, seaborn
 
+## Notes
+This project was developed in Google Colab and uploaded to GitHub for sharing and reproducibility.
+
 ## Author
 Keelin McLoughlin
